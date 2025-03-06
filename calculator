@@ -1,8 +1,13 @@
 Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("Roll No. 24-ST-007");
+ Multiplication
 division
 int a=72,b=44;
 Console.WriteLine("Division of two numbers is"+a/b);
 int a=22,b=18;
 Console.WriteLine("Multiplication of two numbers is"+a*b);
 Multiplication
+
+int a=07,b=28;
+Console.WriteLine("Subtraction of two numbers is"+a-b);
+Subtraction
