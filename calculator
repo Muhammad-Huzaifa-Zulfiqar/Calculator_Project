@@ -1,4 +1,8 @@
 Console.WriteLine("Muhammad Huzaifa");
 Console.WriteLine("Roll No. 24-ST-007");
+ Subtraction
 int a=07,b=28;
 Console.WriteLine("Subtraction of two numbers is"+a-b);
+int a=12,b=10;
+Console.WriteLine("Addition of two numbers is"+a,b);
+Addition
